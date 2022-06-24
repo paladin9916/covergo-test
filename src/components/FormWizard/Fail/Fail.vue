@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="cg-form-fail">
     <h2>Ooops</h2>
     <p>Your age is over our accepted limit.</p>
     <p>We are sorry but we cannot insure you now.</p>
